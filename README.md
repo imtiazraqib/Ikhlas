@@ -1,2 +1,2 @@
-# ikhlas
+# Ikhlas
 An Islamic centered application
